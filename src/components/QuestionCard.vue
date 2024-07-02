@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, defineEmits } from 'vue'
+// import { defineProps, defineEmits } from 'vue'
 
 const emit = defineEmits(['selectOption'])
 
@@ -29,6 +29,7 @@ const emitOption = (isCorrect) => {
     </div>
   </div>
 </template>
+
 <style scoped>
 .question-container {
   margin-top: 20px;

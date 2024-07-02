@@ -10,8 +10,8 @@ const { quizLength, correctAnswers } = defineProps(['correctAnswers', 'quizLengt
   <div class="results">
     <p>Result</p>
     <h1>{{ correctAnswers }}/{{ quizLength }}</h1>
+    <RouterLink to="/">Go back</RouterLink>
   </div>
-  <RouterLink to="/">Go back</RouterLink>
 </template>
 
 <style scoped>
