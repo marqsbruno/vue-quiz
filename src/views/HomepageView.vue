@@ -33,7 +33,7 @@ watch(searchText, () => {
 
 <style scoped>
 header {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   margin-bottom: 10px;
   margin-top: 30px;
   display: flex;
