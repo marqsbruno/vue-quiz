@@ -1,7 +1,7 @@
 # Vue Quiz
 
-Projeto para estudo utilizando VueJS.
-O projeto apresenta perguntas e alternativas de diferentes temas, como também apresenta a quantidade de respostas corretas ao final do quiz. As informações são renderizadas dinâmicamente a partir de um arquivo JSON.
+Projeto para estudo de VueJS com Router
+O projeto web renderiza perguntas e alternativas de diferentes temas, como também apresenta a quantidade de respostas corretas ao final do quiz. As informações são renderizadas dinâmicamente a partir de um arquivo JSON.
 
 Link para acesso: https://marqsbruno.github.io/vue-quiz/
 
