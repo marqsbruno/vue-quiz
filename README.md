@@ -1,35 +1,40 @@
-# vue-quiz
+# Vue Quiz
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto para estudo de VueJS com Router
+O projeto web renderiza perguntas e alternativas de diferentes temas, como também apresenta a quantidade de respostas corretas ao final do quiz. As informações são renderizadas dinâmicamente a partir de um arquivo JSON.
 
-## Recommended IDE Setup
+Link para acesso: https://marqsbruno.github.io/vue-quiz/
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
+#
+<img src="https://github.com/marqsbruno/vue-quiz/assets/94490136/056d30e9-eff2-40a9-a52d-ec30cf9b6ebc" width=30%>
+<img src="https://github.com/marqsbruno/vue-quiz/assets/94490136/bb845528-d367-44cf-96d8-51a6efa12599" width=30%>
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
 
-```sh
+## Tech 🛠
+
+- Javascript
+- VueJS
+- Vue Router
+
+## Executando aplicação
+
+_na raiz do projeto:_
+
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Autor 👥
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+<a href="https://www.linkedin.com/in/marques-bruno/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/marqsbruno">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
